@@ -345,3 +345,335 @@ section{
     transition: .5s;
 
 }
+
+.new-games{
+
+    
+
+    
+    
+    
+
+    
+
+   
+ 
+     background: url(/images/sf.jpg) no-repeat;
+     
+     background-size: cover;
+ 
+     background-position: center;
+ 
+ }
+
+
+ .home2{
+
+    
+
+    
+    
+    
+
+    
+
+    display:flex;
+ 
+     align-items:center;
+ 
+     padding:0 9%;
+ 
+     background: url(/images/gta55.png) no-repeat;
+     
+     background-size: cover;
+ 
+     background-position: center;
+ 
+ }
+
+
+ .home3{
+
+    
+
+    
+    
+    
+
+    
+
+    display:flex;
+ 
+     align-items:center;
+ 
+     padding:0 9%;
+ 
+     background: url(/images/mafiaa.png) no-repeat;
+     
+     background-size: cover;
+ 
+     background-position: center;
+ 
+ }
+
+
+ .home4{
+
+    
+
+    
+    
+    
+
+    
+
+    display:flex;
+ 
+     align-items:center;
+ 
+     padding:0 9%;
+ 
+     background: url(/images/crazyyyy.png) no-repeat;
+     
+     background-size: cover;
+ 
+     background-position: center;
+ 
+ }
+
+ .home5{
+
+    
+
+    
+    
+    
+
+    
+
+    display:flex;
+ 
+     align-items:center;
+ 
+     padding:0 9%;
+ 
+     background: url(/images/hoo.png) no-repeat;
+     
+     background-size: cover;
+ 
+     background-position: center;
+ 
+ }
+
+ .home6{
+
+    
+
+    
+    
+    
+
+    
+
+    display:flex;
+ 
+     align-items:center;
+ 
+     padding:0 9%;
+ 
+     background: url(/images/dbb.png) no-repeat;
+     
+     background-size: cover;
+ 
+     background-position: center;
+ 
+ }
+
+
+ .home7{
+
+    
+
+    
+    
+    
+
+    
+
+    display:flex;
+ 
+     align-items:center;
+ 
+     padding:0 9%;
+ 
+     background: url(/images/soss.png) no-repeat;
+     
+     background-size: cover;
+ 
+     background-position: center;
+ 
+ }
+
+ .home8{
+
+    
+
+    
+    
+    
+
+    
+
+    display:flex;
+ 
+     align-items:center;
+ 
+     padding:0 9%;
+ 
+     background: url(/images/sff.png) no-repeat;
+     
+     background-size: cover;
+ 
+     background-position: center;
+ 
+ }
+
+ .home9{
+
+    
+
+    
+    
+    
+
+    
+
+    display:flex;
+ 
+     align-items:center;
+ 
+     padding:0 9%;
+ 
+     background: url(/images/saa.png) no-repeat;
+     
+     background-size: cover;
+ 
+     background-position: center;
+ 
+ }
+
+
+ .home10{
+
+    
+
+    
+    
+    
+
+    
+
+    display:flex;
+ 
+     align-items:center;
+ 
+     padding:0 9%;
+ 
+     background: url(/images/etss.png) no-repeat;
+     
+     background-size: cover;
+ 
+     background-position: center;
+ 
+ }
+
+ .home11{
+
+    
+
+    
+    
+    
+
+    
+
+    display:flex;
+ 
+     align-items:center;
+ 
+     padding:0 9%;
+ 
+     background: url(/images/pubgg.png) no-repeat;
+     
+     background-size: cover;
+ 
+     background-position: center;
+ 
+ }
+
+ .home12{
+
+    
+
+    
+    
+    
+
+    
+
+    display:flex;
+ 
+     align-items:center;
+ 
+     padding:0 9%;
+ 
+     background: url(/images/cpp.png) no-repeat;
+     
+     background-size: cover;
+ 
+     background-position: center;
+ 
+ }
+
+
+
+.home-content{
+
+    max-width: 60rem;
+
+}
+
+.home-content h1{
+
+    font-size: 5.6rem;
+
+    font-weight: 700;
+
+    line-height: 1.3;
+
+ 
+
+}
+
+.home-content .text-animate{
+
+    position: relative;
+
+    width: 32.8rem;
+
+}
+
+.home-content .text-animate h3{
+
+    font-size: 3.2rem;
+
+    font-weight: 700;
+
+    color:transparent;
+
+    -webkit-text-stroke: .7px var(--main-color);
+
+ 
+
+}
+
